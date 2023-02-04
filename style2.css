@@ -27,10 +27,16 @@ h2:hover{
     color: blue;
 }
 h3{
-    color: red;
-    font-size: 1.5rem;
+    color: green;
+    font-size: 2.25rem;
 }
 h3:hover{
     color: blue;
+}
+.next{
+    font-size: 2rem;
+    background-color: white;
+ font-weight: bolder;
+ 
 }
 

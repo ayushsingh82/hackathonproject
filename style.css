@@ -1,0 +1,47 @@
+*{
+    background-color:white;
+}
+p{
+    font-size: 1.25rem;
+    background-color: wheat;
+  
+}
+
+.color{
+    background-color:wheat;
+}
+.colors{
+    color:blue;
+}
+
+.colorss{
+    color: black;
+}
+
+
+.outer-box{
+    width: 100vw;
+    height: 100vh;
+    background-color:whitesmoke;
+}
+.inner-box{
+    width: 400px;
+    margin: 0 auto;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px #56ade7;
+    background-color: antiquewhite;
+}
+.next{
+    font-size: 2rem;
+    background-color: white;
+    font-weight: bolder;
+ 
+}
+
+h2{
+    color: blue;
+}
+h3{
+    font-size: 1.25rem;
+    color: blue;
+}
